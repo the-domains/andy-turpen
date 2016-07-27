@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Andy Turpen]]></title>
-        <description><![CDATA[Andy Turpen]]></description>
+        <title><![CDATA[I am Andy Turpen]]></title>
+        <description><![CDATA[I am Andy Turpen]]></description>
         <link>https://thegrid.ai/andy-turpen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jul 2016 22:39:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 12:26:42 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andy-turpen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bingo & Stripe]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/baaf1a4f-b345-4941-bc0c-6d841eb34876.png</link>
             <guid isPermaLink="false">667e14b7-e56f-4b6a-8f50-f99c806f4666</guid>
             <pubDate>Tue, 19 Jul 2016 22:39:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cca842aa-f89b-4d92-ba00-254778965ccd.jpg" alt="The Fabulous Turpen Muthaz ">]]></description>
+            <link>https://archive.org/details/FabTurpen</link>
+            <guid isPermaLink="false">362b6934-5286-4fdc-a038-26aecc706993</guid>
+            <pubDate>Wed, 27 Jul 2016 12:26:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ossic headphones create 3D audio unique to you]]></title>
