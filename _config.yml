@@ -1,4 +1,3 @@
-layout_spectrum: 0.963962689274922
 typography_spectrum: 0.3251842283643782
 color:
   brandStrength: 0.2615737603046
@@ -11,5 +10,7 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
+layout_spectrum: 0.963962689274922
 name: Andy Turpen
 title: I am Andy Turpen
+description: "You are here.\_"
