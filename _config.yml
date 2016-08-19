@@ -12,9 +12,5 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.963962689274922
 name: Andy Turpen
-navigation:
-  - name: Map of Metal!
-    url: 'http://mapofmetal.com/#/home'
-    type: external
 title: I am Andy Turpen
 description: "You are here.\_"
