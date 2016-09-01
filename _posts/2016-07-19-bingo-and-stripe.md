@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T01:57:39.191Z'
+datePublished: '2016-08-30T13:21:54.401Z'
 sourcePath: _posts/2016-07-19-bingo-and-stripe.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/baaf1a4f-b345-4941-bc0c-6d841eb34876.png
@@ -7,7 +7,7 @@ author:
   - name: Andy Turpen
     url: 'https://www.linkedin.com/in/andrewturpen'
 via: {}
-dateModified: '2016-08-30T01:57:38.938Z'
+dateModified: '2016-08-30T13:21:53.665Z'
 title: Bingo & Stripe
 publisher:
   name: Andy Turpen
