@@ -1,6 +1,5 @@
 ---
-datePublished: '2016-08-30T01:07:58.086Z'
-isBasedOnUrl: 'https://www.linkedin.com/in/andrewturpen'
+datePublished: '2016-08-30T02:14:39.902Z'
 keywords:
   - lathem
   - estate
@@ -15,7 +14,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-07-27T23:03:34.678Z'
+dateModified: '2016-08-30T02:14:39.584Z'
 title: Andy Turpen | LinkedIn
 app_links: []
 publisher:
@@ -25,11 +24,10 @@ publisher:
   domain: www.linkedin.com
 description: Creative Professional Guy
 inLanguage: en
-starred: false
 sourcePath: _posts/2016-08-30-andy-turpen-or-linkedin.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: andy-turpen-or-linkedin/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
