@@ -12,5 +12,9 @@ color:
     - '#3B28CC'
 layout_spectrum: 0.963962689274922
 name: Andy Turpen
+navigation:
+  - name: Andy Turpen | LinkedIn
+    id: b7a2227b-8113-43ed-adc0-74ed39f36129
+    type: content
 title: I am Andy Turpen
 description: "You are here.\_"
