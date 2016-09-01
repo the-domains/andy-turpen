@@ -4,7 +4,7 @@
         <description><![CDATA[I am Andy Turpen]]></description>
         <link>https://thegrid.ai/andy-turpen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 01:08:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 01:09:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andy-turpen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bingo & Stripe]]></title>
@@ -47,13 +47,6 @@
             <link>https://youtu.be/HqTbmTaPMPw</link>
             <guid isPermaLink="false">2e1613ca-c170-4a45-a9c7-3c3d10f14d66</guid>
             <pubDate>Wed, 27 Jul 2016 12:29:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cca842aa-f89b-4d92-ba00-254778965ccd.jpg" alt="The Fabulous Turpen Muthaz ">]]></description>
-            <link>https://archive.org/details/FabTurpen</link>
-            <guid isPermaLink="false">362b6934-5286-4fdc-a038-26aecc706993</guid>
-            <pubDate>Wed, 27 Jul 2016 12:26:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
