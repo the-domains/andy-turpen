@@ -1,16 +1,16 @@
-typography_spectrum: 0.3251842283643782
+layout_spectrum: 0.7589451693929732
+typography_spectrum: 0.9614691853057593
 color:
-  brandStrength: 0.2615737603046
-  lightness: 0.12736609857529402
-  saturation: 0.46494777989573777
-  rhythmicContrast: 0.8185532805509865
+  brandStrength: 0.26586140505969524
+  lightness: 0.6100119904149324
+  saturation: 0.3841537479311228
+  rhythmicContrast: 0.21228673192672431
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-layout_spectrum: 0.963962689274922
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: Andy Turpen
 navigation:
   - name: Andy Turpen | LinkedIn
