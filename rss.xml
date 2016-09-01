@@ -4,7 +4,7 @@
         <description><![CDATA[I am Andy Turpen]]></description>
         <link>https://thegrid.ai/andy-turpen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 30 Aug 2016 01:09:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Aug 2016 01:09:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andy-turpen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bingo & Stripe]]></title>
@@ -40,13 +40,6 @@
             <link>https://youtu.be/23ezwcimGNY</link>
             <guid isPermaLink="false">2de56071-771d-4fc9-a019-eec755868766</guid>
             <pubDate>Tue, 30 Aug 2016 01:07:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Little Dragon - fortune]]></title>
-            <description><![CDATA[<article><h1>Little Dragon - fortune</h1><p>music clip</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f094c3f8a53bdf8b4907724e3fe64f03/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FHqTbmTaPMPw%2Fhqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/HqTbmTaPMPw</link>
-            <guid isPermaLink="false">2e1613ca-c170-4a45-a9c7-3c3d10f14d66</guid>
-            <pubDate>Wed, 27 Jul 2016 12:29:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
