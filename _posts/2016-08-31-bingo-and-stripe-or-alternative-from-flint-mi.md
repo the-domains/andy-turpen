@@ -23,8 +23,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://www.reverbnation.com/bingostripe'
 title: ''
-datePublished: '2016-08-31T12:31:19.466Z'
-dateModified: '2016-08-31T12:29:43.833Z'
+datePublished: '2016-08-31T12:33:55.528Z'
+dateModified: '2016-08-31T12:31:11.073Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-31-bingo-and-stripe-or-alternative-from-flint-mi.md
