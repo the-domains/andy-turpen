@@ -1,4 +1,3 @@
-layout_spectrum: 0.7589451693929732
 typography_spectrum: 0.9614691853057593
 color:
   brandStrength: 0.26586140505969524
@@ -11,10 +10,7 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.7589451693929732
 name: Andy Turpen
-navigation:
-  - name: Andy Turpen | LinkedIn
-    id: b7a2227b-8113-43ed-adc0-74ed39f36129
-    type: content
 title: I am Andy Turpen
 description: "You are here.\_"
