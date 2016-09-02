@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-30T13:21:54.401Z'
+datePublished: '2016-08-31T12:25:35.755Z'
 sourcePath: _posts/2016-07-19-bingo-and-stripe.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/baaf1a4f-b345-4941-bc0c-6d841eb34876.png
@@ -7,7 +7,7 @@ author:
   - name: Andy Turpen
     url: 'https://www.linkedin.com/in/andrewturpen'
 via: {}
-dateModified: '2016-08-30T13:21:53.665Z'
+dateModified: '2016-08-31T12:25:35.450Z'
 title: Bingo & Stripe
 publisher:
   name: Andy Turpen
@@ -15,7 +15,7 @@ publisher:
 description: >-
   Andy Turpen and Mitch Foster create interesting, “dangerous”, whimsical,
   compelling compositions in less time than it takes you to bake a chicken. They
-  are “Bingo & $tripe.” https://www.reverbnation.com/bingostripe
+  are “Bingo & $tripe.” 
 starred: true
 inFeed: true
 hasPage: false
@@ -26,4 +26,4 @@ _type: MediaObject
 # Bingo & Stripe
 ![Andy Turpen (aka "Bingo" and Mitch Foster (aka "Stripe")](https://the-grid-user-content.s3-us-west-2.amazonaws.com/baaf1a4f-b345-4941-bc0c-6d841eb34876.png)
 
-Andy Turpen and Mitch Foster create interesting, "dangerous", whimsical, compelling compositions in less time than it takes you to bake a chicken. They are "Bingo & $tripe." https://www.reverbnation.com/bingostripe
+Andy Turpen and Mitch Foster create interesting, "dangerous", whimsical, compelling compositions in less time than it takes you to bake a chicken. They are "Bingo & $tripe."
