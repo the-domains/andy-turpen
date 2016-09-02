@@ -4,7 +4,7 @@
         <description><![CDATA[I am Andy Turpen]]></description>
         <link>https://thegrid.ai/andy-turpen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 12:34:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 12:36:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/andy-turpen/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Bingo & Stripe | Alternative from Flint, MI]]></title>
@@ -13,23 +13,11 @@
             <pubDate>Wed, 31 Aug 2016 12:33:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Homeland | Bingo & Stripe]]></title>
-            <link>https://www.reverbnation.com/bingostripe/song/20507274-homeland</link>
-            <guid isPermaLink="false">314bef1f-5f37-494d-80bc-9631d71af797</guid>
-            <pubDate>Wed, 31 Aug 2016 12:33:54 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article></article>]]></description>
             <link>http://thebaldspot.tumblr.com/</link>
             <guid isPermaLink="false">05db01d9-56e5-46f1-aa84-52f16958854b</guid>
             <pubDate>Wed, 31 Aug 2016 12:32:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bingo & Stripe | Alternative from Flint, MI]]></title>
-            <link>https://www.reverbnation.com/bingostripe</link>
-            <guid isPermaLink="false">9c8310ff-11a6-41ac-b097-0d9663e8b68d</guid>
-            <pubDate>Wed, 31 Aug 2016 12:31:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
