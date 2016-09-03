@@ -1,14 +1,14 @@
 ---
-datePublished: '2016-08-31T23:12:52.368Z'
+datePublished: '2016-08-31T23:32:38.950Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-31T23:10:13.116Z'
+dateModified: '2016-08-31T23:23:50.859Z'
 title: “Can you hear me out there?” - David Lee Roth
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-08-31-can-you-hear-me-out-there-david-lee-roth.md
+starred: false
 _type: Blurb
 
 ---
