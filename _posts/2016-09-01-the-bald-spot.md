@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-01T01:56:39.460Z'
+datePublished: '2016-09-01T01:59:27.151Z'
 isBasedOnUrl: 'http://thebaldspot.tumblr.com/'
 keywords: []
 related: []
 author: []
 via: {}
-dateModified: '2016-09-01T01:56:24.675Z'
+dateModified: '2016-09-01T01:57:07.402Z'
 title: The Bald Spot
 app_links: []
 publisher:
@@ -14,8 +14,8 @@ publisher:
   favicon: null
   domain: thebaldspot.tumblr.com
 description: 'My tumblr. Check out my flava. '
-starred: false
 sourcePath: _posts/2016-09-01-the-bald-spot.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
