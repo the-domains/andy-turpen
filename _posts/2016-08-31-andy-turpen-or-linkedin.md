@@ -1,5 +1,6 @@
 ---
-datePublished: '2016-08-31T23:21:07.623Z'
+datePublished: '2016-08-31T23:22:56.859Z'
+sourcePath: _posts/2016-08-31-andy-turpen-or-linkedin.md
 isBasedOnUrl: 'https://www.linkedin.com/in/andrewturpen'
 keywords:
   - lathem
@@ -15,18 +16,17 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T23:20:44.667Z'
+dateModified: '2016-08-31T23:22:56.382Z'
 title: Andy Turpen | LinkedIn
 app_links: []
 publisher:
-  url: 'http://linkedin.com'
-  name: LinkedIn
+  url: 'https://www.linkedin.com/in/andrewturpen'
+  name: My LinkedIn Profile
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
   domain: www.linkedin.com
 description: I am a music-maker. I am a dreamer of dreams.
 inLanguage: en
 starred: false
-sourcePath: _posts/2016-08-31-andy-turpen-or-linkedin.md
 inFeed: true
 hasPage: false
 inNav: false
