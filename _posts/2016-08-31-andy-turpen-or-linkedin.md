@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-31T23:22:56.859Z'
+datePublished: '2016-08-31T23:32:30.678Z'
 sourcePath: _posts/2016-08-31-andy-turpen-or-linkedin.md
 isBasedOnUrl: 'https://www.linkedin.com/in/andrewturpen'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-08-31T23:22:56.382Z'
+dateModified: '2016-08-31T23:29:44.203Z'
 title: Andy Turpen | LinkedIn
 app_links: []
 publisher:
