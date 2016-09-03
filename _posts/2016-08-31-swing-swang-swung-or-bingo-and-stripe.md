@@ -1,12 +1,7 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'https://www.reverbnation.com'
-  name: ReverbNation
-  favicon: >-
-    https://gp1.wac.edgecastcdn.net/802892/production_static/20160831142744/images/favicon.ico
-  domain: www.reverbnation.com
+datePublished: '2016-08-31T23:32:19.192Z'
+sourcePath: _posts/2016-08-31-swing-swang-swung-or-bingo-and-stripe.md
+isBasedOnUrl: 'https://www.reverbnation.com/bingostripe/song/19356573-swing-swang-swung'
 keywords:
   - reverbpageobject
   - reverbuser
@@ -18,16 +13,21 @@ keywords:
   - admin
   - chart
   - hiphop
+related: []
+author: []
+via: {}
+dateModified: '2016-08-31T23:32:18.857Z'
+title: ''
+app_links: []
+publisher:
+  url: 'https://www.reverbnation.com'
+  name: ReverbNation
+  favicon: >-
+    https://gp1.wac.edgecastcdn.net/802892/production_static/20160831142744/images/favicon.ico
+  domain: www.reverbnation.com
 description: ''
 inLanguage: en
-app_links: []
-isBasedOnUrl: 'https://www.reverbnation.com/bingostripe/song/19356573-swing-swang-swung'
-title: ''
-datePublished: '2016-08-31T23:29:34.243Z'
-dateModified: '2016-08-31T23:29:12.309Z'
-via: {}
 starred: false
-sourcePath: _posts/2016-08-31-swing-swang-swung-or-bingo-and-stripe.md
 inFeed: true
 hasPage: false
 inNav: false
