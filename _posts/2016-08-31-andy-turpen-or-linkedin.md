@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T01:11:55.044Z'
+datePublished: '2016-09-02T01:51:05.879Z'
 sourcePath: _posts/2016-08-31-andy-turpen-or-linkedin.md
 isBasedOnUrl: 'https://www.linkedin.com/in/andrewturpen'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T01:11:54.717Z'
+dateModified: '2016-09-02T01:51:05.492Z'
 title: Andy Turpen | LinkedIn
 app_links: []
 publisher:
@@ -25,11 +25,13 @@ publisher:
   favicon: 'https://static.licdn.com/scds/common/u/images/logos/favicons/v1/favicon.ico'
   domain: www.linkedin.com
 description: >-
-  Leverage agile frameworks to provide a robust synopsis for high level
-  overviews. Iterative approaches to corporate strategy foster collaborative
-  thinking to further the overall value proposition. Organically grow the
-  holistic world view of disruptive innovation via workplace diversity and
-  empowerment.
+  I bring to the table win-win survival strategies to ensure proactive
+  domination. At the end of the day, going forward, I create a “new unusual”
+  that has evolved from the mean streets of Generation X and on the runway
+  heading towards a streamlined local-global-sustainable and not-so-very
+  gluten-free solution. I have just generated content in nearly real-time and
+  you are watching it develop multiple touch-points for artificial intelligence.
+  Now, just think about what I could do for you!
 inLanguage: en
 starred: false
 inFeed: true
@@ -39,8 +41,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/b832c7920ec89c4978b110ca642544df/noop.jpg?input=https%3A%2F%2Fmedia.licdn.com%2Fmpr%2Fmpr%2Fshrinknp_200_200%2FAAEAAQAAAAAAAAbxAAAAJGYyMjRiOTUyLTdlMDgtNDNiMy1hOGExLTlmZjVkNzZkYzRkMw.jpg" /><h1>Andy Turpen | LinkedIn</h1><p>Dreamer of Dreams and Marketing Guy</p></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2727651-6a7b-4a83-9459-4378ccccbd31.jpg)
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
-
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+I bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, I create a "new unusual" that has evolved from the mean streets of Generation X and on the runway heading towards a streamlined local-global-sustainable and not-so-very gluten-free solution. I have just generated content in nearly real-time and you are watching it develop multiple touch-points for artificial intelligence. Now, just think about what I could do for you!
