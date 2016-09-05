@@ -1,16 +1,16 @@
-typography_spectrum: 0.5497304883319885
+layout_spectrum: 0.4532236459199339
+typography_spectrum: 0.6005488238297403
 color:
-  brandStrength: 0.20761827798560262
-  lightness: 0.3815139285288751
-  saturation: 0.506527817575261
-  rhythmicContrast: 0.5794743944425136
+  brandStrength: 0.8637885691132396
+  lightness: 0.20497532072477043
+  saturation: 0.8704361298587173
+  rhythmicContrast: 0.7716036576312035
   brandColors:
-    - '#3E454C'
-    - '#2185C5'
-    - '#7ECEFD'
-    - '#FFF6E5'
-    - '#FF7F66'
-layout_spectrum: 0.3797044206876308
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 logo: null
 name: Andy Turpen
 favicon: >-
