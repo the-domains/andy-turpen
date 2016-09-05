@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-02T02:00:48.044Z'
+datePublished: '2016-09-02T02:02:17.126Z'
 sourcePath: _posts/2016-08-31-andy-turpen-or-linkedin.md
 isBasedOnUrl: 'https://www.linkedin.com/in/andrewturpen'
 keywords:
@@ -16,7 +16,7 @@ keywords:
 related: []
 author: []
 via: {}
-dateModified: '2016-09-02T02:00:47.636Z'
+dateModified: '2016-09-02T02:02:16.545Z'
 title: Andy Turpen | LinkedIn
 app_links: []
 publisher:
@@ -41,6 +41,6 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-![Creative Marketing Guy](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2727651-6a7b-4a83-9459-4378ccccbd31.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2727651-6a7b-4a83-9459-4378ccccbd31.jpg)
 
 I bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, I create a "new unusual" that has evolved from the mean streets of Generation X and on the runway heading towards a streamlined local-global-sustainable and not-so-very gluten-free solution. I have just generated content in nearly real-time and you are watching it develop multiple touch-points for artificial intelligence. Now, just think about what I could do for you!
